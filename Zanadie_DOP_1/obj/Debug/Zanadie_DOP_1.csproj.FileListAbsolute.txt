@@ -1,0 +1,14 @@
+D:\gho5\Zadanie1\Zanadie_DOP_1\bin\Debug\Zanadie_DOP_1.exe.config
+D:\gho5\Zadanie1\Zanadie_DOP_1\bin\Debug\Zanadie_DOP_1.exe
+D:\gho5\Zadanie1\Zanadie_DOP_1\bin\Debug\Zanadie_DOP_1.pdb
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\MainWindow.g.cs
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\App.g.cs
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1_MarkupCompile.cache
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1_MarkupCompile.lref
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\MainWindow.baml
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1.g.resources
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1.Properties.Resources.resources
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1.csproj.GenerateResource.cache
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1.csproj.CoreCompileInputs.cache
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1.exe
+D:\gho5\Zadanie1\Zanadie_DOP_1\obj\Debug\Zanadie_DOP_1.pdb

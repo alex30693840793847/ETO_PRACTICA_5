@@ -1,0 +1,41 @@
+﻿<Window x:Class="Zadanie5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="q:" FontSize="30"/>
+        <TextBlock Text="r:" FontSize="30" Grid.Row="1"/>
+        <TextBlock Text="b:" FontSize="30" Grid.Row="2"/>
+        <TextBlock Text="c:" FontSize="30" Grid.Row="3"/>
+        <TextBlock Text="d:" FontSize="30" Grid.Row="4"/>
+        <TextBlock Text="n:" FontSize="30" Grid.Row="5"/>
+        <TextBox x:Name="Q" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="R" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="B" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="C" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="D" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="N" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <Button Grid.Row="6" Grid.ColumnSpan="5" Click="Button_Click" Content="OK" FontSize="30" />
+        <TextBox x:Name="OTV" Grid.Row="7" Grid.ColumnSpan="5"/>
+    </Grid>
+</Window>
